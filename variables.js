@@ -4,7 +4,7 @@ felixage = 22;
 
 isKenya = true;
 
-console.log( typeof namesINClass)
+console.log(typeof namesINClass)
 
 console.log(typeof felixage)
 

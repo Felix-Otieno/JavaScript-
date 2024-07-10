@@ -7,5 +7,5 @@ function demoScope() {
 }
 
  return demoScope();
-console.log(globalVar);
+// console.log(globalVar);
 // console.log(localVar);
